@@ -15,7 +15,7 @@ const IngredientForm = React.memo((props) => {
       <Card>
         <form onSubmit={submitHandler}>
           <div className="form-control">
-            <label htmlFor="title">Name</label>
+            <label htmlFor="title">Name #edited</label>
             <input
               type="text"
               id="title"

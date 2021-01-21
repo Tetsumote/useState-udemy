@@ -36,15 +36,11 @@ const IngredientForm = React.memo((props) => {
           </div>
           <div className="ingredient-form__actions">
             <button type="submit">Add Ingredient</button>
-            />
           </div>
         </form>
       </Card>
     </section>
   );
-});
-
-export default IngredientForm;
 });
 
 export default IngredientForm;
